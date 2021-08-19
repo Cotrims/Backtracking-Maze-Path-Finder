@@ -1,0 +1,10 @@
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.Properties.Resources.resources
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\bin\Debug\apLabirintoBacktracking.exe.config
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\bin\Debug\apLabirintoBacktracking.exe
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\bin\Debug\apLabirintoBacktracking.pdb
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.frmLabirintoBacktracking.resources
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.exe
+C:\Users\vinic\source\repos\apLabirintoBacktracking\apLabirintoBacktracking\obj\Debug\apLabirintoBacktracking.pdb
